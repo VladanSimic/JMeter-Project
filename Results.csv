@@ -1,0 +1,61 @@
+
+1752497179987,672,HTTP Request,200,OK,Thread Group 1-1,text,true,,489,116,1,1,https://httpbin.org/get,672,0,541
+1752497181988,753,HTTP Request,200,OK,Thread Group 1-2,text,true,,489,116,2,2,https://httpbin.org/get,753,0,502
+1752497183989,667,HTTP Request,200,OK,Thread Group 1-3,text,true,,489,116,3,3,https://httpbin.org/get,666,0,490
+1752497185988,614,HTTP Request,200,OK,Thread Group 1-4,text,true,,489,116,4,4,https://httpbin.org/get,614,0,440
+1752497187992,2309,HTTP Request,200,OK,Thread Group 1-5,text,true,,489,116,5,5,https://httpbin.org/get,2309,0,447
+1752497180659,21022,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-1,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752497182742,21051,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-2,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752497184656,21053,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-3,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752497186603,21041,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-4,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752497190301,21045,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-5,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752497201681,21056,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-1,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752497222738,1574,HTTP Request,200,OK,Thread Group 1-1,text,true,,489,116,5,5,https://httpbin.org/get,1574,0,0
+1752497203793,21062,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-2,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752497224856,874,HTTP Request,200,OK,Thread Group 1-2,text,true,,489,116,5,5,https://httpbin.org/get,874,0,0
+1752497205710,21064,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-3,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752497207645,21086,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-4,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752497228731,165,HTTP Request,200,OK,Thread Group 1-4,text,true,,489,116,5,5,https://httpbin.org/get,165,0,0
+1752497226774,2231,HTTP Request,200,OK,Thread Group 1-3,text,true,,489,116,5,5,https://httpbin.org/get,2231,0,0
+1752497211346,21058,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-5,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752497232405,1547,HTTP Request,200,OK,Thread Group 1-5,text,true,,489,116,5,5,https://httpbin.org/get,1547,0,0
+1752497224312,21059,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-1,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752497225730,21042,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-2,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752497228896,21070,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-4,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752497229005,21041,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-3,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752497233953,21046,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-5,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752497245371,21073,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-1,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752497246772,21057,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-2,,false,,0,0,4,4,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752497249965,21045,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-4,,false,,0,0,3,3,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752497250047,21043,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-3,,false,,0,0,2,2,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752497255000,21045,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-5,,false,,0,0,1,1,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752575045007,1063,HTTP Request,200,OK,Thread Group 1-1,text,true,,490,116,1,1,https://httpbin.org/get,1063,0,621
+1752575046968,804,HTTP Request,502,Bad Gateway,Thread Group 1-2,text,false,,277,116,2,2,https://httpbin.org/get,804,0,463
+1752575048965,690,HTTP Request,200,OK,Thread Group 1-3,text,true,,490,116,3,3,https://httpbin.org/get,690,0,502
+1752575050962,763,HTTP Request,200,OK,Thread Group 1-4,text,true,,490,116,4,4,https://httpbin.org/get,763,0,555
+1752575052966,1701,HTTP Request,200,OK,Thread Group 1-5,text,true,,490,116,5,5,https://httpbin.org/get,1700,0,500
+1752575046091,21045,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-1,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752575047772,21054,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-2,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752575049656,21049,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-3,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752575051725,21041,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-4,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752575054667,21061,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-5,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752575067137,21058,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-1,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752575088197,252,HTTP Request,200,OK,Thread Group 1-1,text,true,,490,116,5,5,https://httpbin.org/get,252,0,0
+1752575068828,21064,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-2,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752575089892,933,HTTP Request,200,OK,Thread Group 1-2,text,true,,490,116,5,5,https://httpbin.org/get,933,0,0
+1752575070707,21062,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-3,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752575091769,196,HTTP Request,200,OK,Thread Group 1-3,text,true,,490,116,5,5,https://httpbin.org/get,196,0,0
+1752575072767,21069,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-4,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752575093838,508,HTTP Request,200,OK,Thread Group 1-4,text,true,,490,116,5,5,https://httpbin.org/get,507,0,0
+1752575075727,21033,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-5,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752575096761,900,HTTP Request,200,OK,Thread Group 1-5,text,true,,490,116,5,5,https://httpbin.org/get,900,0,0
+1752575088450,21062,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-1,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752575090826,21042,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-2,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752575091966,21079,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-3,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752575094346,21071,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-4,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752575097660,21049,FTP Request - GET,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-5,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/sample_ftp.txt (Ascii)  -> C:\Vladan\JMeter\results_ftp.jtl,0,0,0
+1752575109514,21070,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-1,,false,,0,0,5,5,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752575111870,21058,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-2,,false,,0,0,4,4,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752575113046,21048,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-3,,false,,0,0,3,3,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752575115417,21052,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-4,,false,,0,0,2,2,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
+1752575118711,21043,FTP Request - PUT,000,java.net.ConnectException: Connection timed out: getsockopt,Thread Group 1-5,,false,,0,0,1,1,ftp://184.168.74.29:21//home/manisha/examplefile.txt (Ascii)  -> C:\Vladan\JMeter\Results11.csv,0,0,0
